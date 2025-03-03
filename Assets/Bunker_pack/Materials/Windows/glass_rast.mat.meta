@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2acb85b0d19e1748b2e42cc6d00700e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202676
+  packageName: Bunker Pack
+  packageVersion: 1.0
+  assetPath: Assets/Bunker_pack/Materials/Windows/glass_rast.mat
+  uploadId: 452055

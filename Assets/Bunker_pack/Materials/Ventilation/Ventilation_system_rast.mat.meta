@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0f1ab80f46c55c4090dc4323b73018d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202676
+  packageName: Bunker Pack
+  packageVersion: 1.0
+  assetPath: Assets/Bunker_pack/Materials/Ventilation/Ventilation_system_rast.mat
+  uploadId: 452055
