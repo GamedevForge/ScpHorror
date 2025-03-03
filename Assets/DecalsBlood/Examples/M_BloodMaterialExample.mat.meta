@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d27398a9ab60a6643a5f7411d1d120e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286963
+  packageName: 'Decals: Blood'
+  packageVersion: 1.0
+  assetPath: Assets/DecalsBlood/Examples/M_BloodMaterialExample.mat
+  uploadId: 669315
