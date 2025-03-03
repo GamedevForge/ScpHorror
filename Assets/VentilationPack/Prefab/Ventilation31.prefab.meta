@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 79765f53a70c6a3449cb28f33fc4908f
+timeCreated: 1530442693
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122012
+  packageName: Ventilation Pack
+  packageVersion: 1.1
+  assetPath: Assets/VentilationPack/Prefab/Ventilation31.prefab
+  uploadId: 543447

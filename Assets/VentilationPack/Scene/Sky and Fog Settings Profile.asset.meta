@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d476ec6ebe77e04fbdc6f9e5e39e585
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122012
+  packageName: Ventilation Pack
+  packageVersion: 1.1
+  assetPath: Assets/VentilationPack/Scene/Sky and Fog Settings Profile.asset
+  uploadId: 543447

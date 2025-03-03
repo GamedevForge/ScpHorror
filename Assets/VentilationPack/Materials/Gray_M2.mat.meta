@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c891657a5ed0ceb4ebf3d2db86583cd6
+timeCreated: 1530518273
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122012
+  packageName: Ventilation Pack
+  packageVersion: 1.1
+  assetPath: Assets/VentilationPack/Materials/Gray_M2.mat
+  uploadId: 543447

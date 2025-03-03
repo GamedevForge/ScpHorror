@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9b6705af50b9f844cb357ea7c7e95c7e
+timeCreated: 1530449891
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122012
+  packageName: Ventilation Pack
+  packageVersion: 1.1
+  assetPath: Assets/VentilationPack/Materials/Ventilation_M2.mat
+  uploadId: 543447
