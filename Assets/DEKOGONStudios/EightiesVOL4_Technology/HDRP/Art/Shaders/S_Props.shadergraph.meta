@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 459616089ec9c354c8f107058875f432
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281964
+  packageName: Retro 80's VOL.4 - Technology
+  packageVersion: 1.0
+  assetPath: Assets/DEKOGONStudios/EightiesVOL4_Technology/HDRP/Art/Shaders/S_Props.shadergraph
+  uploadId: 658931
