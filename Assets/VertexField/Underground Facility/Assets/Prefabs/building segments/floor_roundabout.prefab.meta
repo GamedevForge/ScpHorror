@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7bc39c2b5684d344e85ddc9be8e057d8
+labels:
+- Architecture
+timeCreated: 1505228496
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/building segments/floor_roundabout.prefab
+  uploadId: 224702

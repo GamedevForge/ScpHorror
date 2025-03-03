@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8ff034b535d71b54b83da6d39f254af3
+labels:
+- Decal
+timeCreated: 1509459957
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/decals/fade decals/f_decal_D.prefab
+  uploadId: 224702

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6192c0be2d435714aaaa2ae09526ff21
+timeCreated: 1516272407
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 36300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Demo scene/Demo_scene_baked/OcclusionCullingData.asset
+  uploadId: 224702

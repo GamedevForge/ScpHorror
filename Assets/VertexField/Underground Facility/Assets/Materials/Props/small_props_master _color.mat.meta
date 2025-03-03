@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cf9d7c9544b6240489fd24746a56d475
+timeCreated: 1509577615
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Materials/Props/small_props_master
+    _color.mat
+  uploadId: 224702

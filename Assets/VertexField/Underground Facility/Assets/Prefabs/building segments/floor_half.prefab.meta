@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8b113b4ca83e85c4ca68d8aac756db0d
+labels:
+- Architecture
+timeCreated: 1506272908
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/building segments/floor_half.prefab
+  uploadId: 224702

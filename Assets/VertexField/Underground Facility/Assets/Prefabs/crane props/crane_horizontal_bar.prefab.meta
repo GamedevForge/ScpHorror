@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f3907f770b7f29d458c14574d7fae02b
+labels:
+- Architecture
+- Prop
+timeCreated: 1507813418
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/crane props/crane_horizontal_bar.prefab
+  uploadId: 224702

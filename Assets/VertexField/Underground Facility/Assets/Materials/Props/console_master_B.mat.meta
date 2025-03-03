@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f189210f0bc898042a93b1977ea2c57b
+timeCreated: 1507532610
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Materials/Props/console_master_B.mat
+  uploadId: 224702

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea814010b50f3f84081ef3142d955662
+timeCreated: 1505680075
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Materials/glass material/window_glass.mat
+  uploadId: 224702

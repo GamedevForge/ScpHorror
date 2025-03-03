@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7608033a3a160c44a8ce210c8468ebe4
+labels:
+- Architecture
+timeCreated: 1505226728
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/building segments/rails_stop.prefab
+  uploadId: 224702

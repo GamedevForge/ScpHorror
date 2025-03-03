@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a1d1df18417d4de4bbcdc10ad42709c9
+timeCreated: 1509578199
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Materials/Floors and
+    Walls/metal_plate_B.mat
+  uploadId: 224702

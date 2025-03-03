@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7236451fb81a8934fbc7abcaa0f4e0ae
+timeCreated: 1508755364
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Materials/Floors and
+    Walls/concrete_C.mat
+  uploadId: 224702

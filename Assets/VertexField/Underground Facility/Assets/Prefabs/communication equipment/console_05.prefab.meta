@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d66f587c59a188945b69ba232beb14ce
+labels:
+- Electric
+- Prop
+timeCreated: 1507550090
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/communication
+    equipment/console_05.prefab
+  uploadId: 224702

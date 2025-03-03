@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ee5801190f8ec0b4b9836842319f905e
+labels:
+- Prop
+timeCreated: 1506440931
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/ventilation props/air_pipe_straight.prefab
+  uploadId: 224702

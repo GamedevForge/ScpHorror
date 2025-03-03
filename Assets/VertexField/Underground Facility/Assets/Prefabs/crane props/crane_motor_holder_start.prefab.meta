@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5379121c4f31fbc47b86ecf1fa69f978
+labels:
+- Architecture
+- Prop
+timeCreated: 1507813412
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/crane props/crane_motor_holder_start.prefab
+  uploadId: 224702

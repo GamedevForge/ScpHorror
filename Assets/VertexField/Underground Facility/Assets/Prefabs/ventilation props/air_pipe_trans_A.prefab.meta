@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0c439206e17941f4dae08a05d8a1b5e7
+labels:
+- Prop
+timeCreated: 1506440932
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/ventilation props/air_pipe_trans_A.prefab
+  uploadId: 224702

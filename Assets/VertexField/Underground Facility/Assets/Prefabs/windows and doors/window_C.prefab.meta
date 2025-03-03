@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f025a43da5d783c47858de404b89b50d
+labels:
+- Architecture
+- Prop
+timeCreated: 1506429551
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/windows and doors/window_C.prefab
+  uploadId: 224702

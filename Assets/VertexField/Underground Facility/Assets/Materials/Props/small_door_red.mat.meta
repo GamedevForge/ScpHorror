@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 55f04089c86236a40a279dd3f58af6ce
+timeCreated: 1508755874
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Materials/Props/small_door_red.mat
+  uploadId: 224702

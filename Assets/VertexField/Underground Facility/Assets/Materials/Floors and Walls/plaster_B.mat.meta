@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c2a0600a77b04f5449c04c9868819da0
+timeCreated: 1508166671
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Materials/Floors and
+    Walls/plaster_B.mat
+  uploadId: 224702

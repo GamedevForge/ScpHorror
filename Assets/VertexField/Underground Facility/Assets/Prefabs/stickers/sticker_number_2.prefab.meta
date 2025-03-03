@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 18881b9189f4a344b8e00e94d027f3be
+labels:
+- Decal
+timeCreated: 1509223779
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/stickers/sticker_number_2.prefab
+  uploadId: 224702

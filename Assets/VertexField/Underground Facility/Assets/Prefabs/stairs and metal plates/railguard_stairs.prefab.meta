@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4633820872b428e4b9d2999188b37e37
+labels:
+- Architecture
+timeCreated: 1505415531
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/stairs and metal
+    plates/railguard_stairs.prefab
+  uploadId: 224702

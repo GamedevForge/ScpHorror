@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 89c528f812a33b84688f9a1fe2543d1e
+labels:
+- Prop
+timeCreated: 1505507730
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/small props/largepipe_straight.prefab
+  uploadId: 224702

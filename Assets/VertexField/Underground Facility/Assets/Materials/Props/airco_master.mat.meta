@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1f09fcf47cc72934190c8742bd276eeb
+timeCreated: 1508496452
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Materials/Props/airco_master.mat
+  uploadId: 224702

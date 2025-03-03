@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 813498aac1620ca44bef103a40238c52
+labels:
+- Architecture
+timeCreated: 1506259461
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/building segments/wall_plate_fill.prefab
+  uploadId: 224702

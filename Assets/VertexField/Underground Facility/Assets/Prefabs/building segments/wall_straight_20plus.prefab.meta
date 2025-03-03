@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4312bc59ef6d73e478aae0b5f5bd753f
+labels:
+- Architecture
+timeCreated: 1506778310
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/building segments/wall_straight_20plus.prefab
+  uploadId: 224702

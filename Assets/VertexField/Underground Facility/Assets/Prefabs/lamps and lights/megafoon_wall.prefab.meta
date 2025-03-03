@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b335744d35d8dbf439d8af636e0d478d
+labels:
+- Prop
+timeCreated: 1505834889
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/lamps and lights/megafoon_wall.prefab
+  uploadId: 224702

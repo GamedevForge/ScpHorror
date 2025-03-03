@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4d2dee66c829a6449aa528df1ca49f80
+labels:
+- Prop
+timeCreated: 1508522131
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/hanging cables/h_cables_hold.prefab
+  uploadId: 224702

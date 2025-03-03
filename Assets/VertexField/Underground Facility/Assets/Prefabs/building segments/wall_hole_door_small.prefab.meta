@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fd0f028d24960b64e88cdc5358421e57
+labels:
+- Architecture
+timeCreated: 1506259472
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/building segments/wall_hole_door_small.prefab
+  uploadId: 224702

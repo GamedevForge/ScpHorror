@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 99a8f9fc16da4024c80ce3575cd73793
+labels:
+- Prop
+timeCreated: 1508361690
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/furniture/pallet.prefab
+  uploadId: 224702

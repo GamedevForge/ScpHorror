@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dddfa61ace57fde47942aec561bb85ee
+timeCreated: 1510668923
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Extra/CameraFX/readme.txt
+  uploadId: 224702

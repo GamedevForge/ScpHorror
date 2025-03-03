@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eb0cc81dedfa51a4592f7e00a1713a1d
+labels:
+- Architecture
+timeCreated: 1505226730
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/building segments/floor_straight_A.prefab
+  uploadId: 224702

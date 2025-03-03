@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a374767e9d9d94c4e8b3c850f672de55
+labels:
+- Decal
+timeCreated: 1509118689
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/decals/3d decals/3d_decal_B.prefab
+  uploadId: 224702

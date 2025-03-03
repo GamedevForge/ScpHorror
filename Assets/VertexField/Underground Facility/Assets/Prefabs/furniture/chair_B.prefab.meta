@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8ae28b1ee1573cd4eaacff115f6ff6cf
+labels:
+- Chair
+- Prop
+timeCreated: 1508157395
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/furniture/chair_B.prefab
+  uploadId: 224702

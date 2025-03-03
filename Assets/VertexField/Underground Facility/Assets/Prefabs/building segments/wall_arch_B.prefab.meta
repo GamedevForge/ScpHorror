@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: becbf8a0160eb5b4d8f6cdd0b4c5142a
+timeCreated: 1510503830
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Prefabs/building segments/wall_arch_B.prefab
+  uploadId: 224702

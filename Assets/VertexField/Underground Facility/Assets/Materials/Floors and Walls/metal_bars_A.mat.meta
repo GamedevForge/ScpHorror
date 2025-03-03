@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 07d68bca5ec213b4c93e502d666541ed
+timeCreated: 1501008111
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105032
+  packageName: Underground Facility Pack
+  packageVersion: 1.1
+  assetPath: Assets/VertexField/Underground Facility/Assets/Materials/Floors and
+    Walls/metal_bars_A.mat
+  uploadId: 224702
