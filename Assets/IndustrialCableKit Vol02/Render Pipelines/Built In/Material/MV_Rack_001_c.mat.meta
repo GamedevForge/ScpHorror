@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48784297092dd5844bc06bf6eedd0ba2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289660
+  packageName: Industrial Cable Kit 02
+  packageVersion: 1.0.0
+  assetPath: Assets/IndustrialCableKit Vol02/Render Pipelines/Built In/Material/MV_Rack_001_c.mat
+  uploadId: 675888

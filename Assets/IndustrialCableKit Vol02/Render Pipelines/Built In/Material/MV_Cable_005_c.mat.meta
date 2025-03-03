@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90198c296ff789340946f778c0db633b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289660
+  packageName: Industrial Cable Kit 02
+  packageVersion: 1.0.0
+  assetPath: Assets/IndustrialCableKit Vol02/Render Pipelines/Built In/Material/MV_Cable_005_c.mat
+  uploadId: 675888

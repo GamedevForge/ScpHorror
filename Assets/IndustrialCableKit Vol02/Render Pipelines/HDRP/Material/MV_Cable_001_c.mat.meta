@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cdb2c823b793f0a46844abfbe0c2d6f7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289660
+  packageName: Industrial Cable Kit 02
+  packageVersion: 1.0.0
+  assetPath: Assets/IndustrialCableKit Vol02/Render Pipelines/HDRP/Material/MV_Cable_001_c.mat
+  uploadId: 675888

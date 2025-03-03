@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2612b32759f22a740a7f8587fd6d887d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289660
+  packageName: Industrial Cable Kit 02
+  packageVersion: 1.0.0
+  assetPath: Assets/IndustrialCableKit Vol02/Render Pipelines/URP/Material/MV_Rack_001_a.mat
+  uploadId: 675888

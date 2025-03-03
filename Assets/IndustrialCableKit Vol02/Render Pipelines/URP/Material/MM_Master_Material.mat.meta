@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 09b9989be56ac7d469b61efd3b4eb623
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289660
+  packageName: Industrial Cable Kit 02
+  packageVersion: 1.0.0
+  assetPath: Assets/IndustrialCableKit Vol02/Render Pipelines/URP/Material/MM_Master_Material.mat
+  uploadId: 675888
