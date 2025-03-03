@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6116305fb4d3f41418e151ebce1d0605
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/ParticleSystem/PS_Foggy.prefab
+  uploadId: 709944

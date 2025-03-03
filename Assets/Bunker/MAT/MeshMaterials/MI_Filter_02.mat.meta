@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dcbe2e0b68dbe864193427fbd5e33806
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/MAT/MeshMaterials/MI_Filter_02.mat
+  uploadId: 709944

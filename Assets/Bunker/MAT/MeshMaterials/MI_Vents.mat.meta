@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca5e86f8a4b3f8f4a9539e33acef7a4c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/MAT/MeshMaterials/MI_Vents.mat
+  uploadId: 709944

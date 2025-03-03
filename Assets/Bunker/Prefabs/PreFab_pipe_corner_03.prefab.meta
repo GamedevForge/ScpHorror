@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000009347479961986276949
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/Prefabs/PreFab_pipe_corner_03.prefab
+  uploadId: 709944

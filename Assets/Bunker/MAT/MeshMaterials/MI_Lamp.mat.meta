@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfbdbe8f01d5f08488d9d2cd586ed994
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/MAT/MeshMaterials/MI_Lamp.mat
+  uploadId: 709944

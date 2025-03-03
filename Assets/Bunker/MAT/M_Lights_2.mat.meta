@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 359a95bf8e4f5b5468ce328c1fcd77e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/MAT/M_Lights_2.mat
+  uploadId: 709944

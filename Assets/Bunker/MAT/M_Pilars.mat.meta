@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000005901921679709155652
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/MAT/M_Pilars.mat
+  uploadId: 709944

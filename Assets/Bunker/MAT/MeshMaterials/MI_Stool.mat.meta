@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85a04528d7ab09243a4f7553f83ac3f6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/MAT/MeshMaterials/MI_Stool.mat
+  uploadId: 709944

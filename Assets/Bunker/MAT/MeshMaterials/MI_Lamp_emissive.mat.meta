@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7c5d6e8d89d9a849a6a0146863add57
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/MAT/MeshMaterials/MI_Lamp_emissive.mat
+  uploadId: 709944

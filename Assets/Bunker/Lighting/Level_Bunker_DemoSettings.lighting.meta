@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22673b54918c3a5429fbd966fd3ee9a7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/Lighting/Level_Bunker_DemoSettings.lighting
+  uploadId: 709944

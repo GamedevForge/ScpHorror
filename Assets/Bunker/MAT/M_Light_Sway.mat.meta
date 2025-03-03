@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20f163c5583d24e40b6ff150d550804b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/MAT/M_Light_Sway.mat
+  uploadId: 709944

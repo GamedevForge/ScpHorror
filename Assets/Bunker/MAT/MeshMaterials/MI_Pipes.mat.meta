@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f83a13dbb6775e40a82d156862a9199
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/MAT/MeshMaterials/MI_Pipes.mat
+  uploadId: 709944

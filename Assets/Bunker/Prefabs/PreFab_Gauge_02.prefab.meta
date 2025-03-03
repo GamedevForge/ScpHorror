@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000007010052458591077323
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/Prefabs/PreFab_Gauge_02.prefab
+  uploadId: 709944

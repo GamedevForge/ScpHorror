@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000001954508806977422154
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/Prefabs/PreFab_Wall_Lamp.prefab
+  uploadId: 709944

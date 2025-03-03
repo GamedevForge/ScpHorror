@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000018357610729246515613
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/Prefabs/PreFab_Pilar_01.prefab
+  uploadId: 709944

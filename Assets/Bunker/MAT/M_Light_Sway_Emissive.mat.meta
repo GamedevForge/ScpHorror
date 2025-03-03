@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7af0a0946bb07904c8f7068c697f7cee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/MAT/M_Light_Sway_Emissive.mat
+  uploadId: 709944

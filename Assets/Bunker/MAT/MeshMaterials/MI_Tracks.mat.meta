@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8add2645273fbc41a2c522150419e8a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/MAT/MeshMaterials/MI_Tracks.mat
+  uploadId: 709944

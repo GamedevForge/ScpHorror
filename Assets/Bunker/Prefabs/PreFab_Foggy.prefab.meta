@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8eb344ef9c216c74dad7fb7000045b91
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/Prefabs/PreFab_Foggy.prefab
+  uploadId: 709944

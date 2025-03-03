@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af26fce79d6b21245ba7041bfc549651
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/MAT/MeshMaterials/MI_Floor.mat
+  uploadId: 709944

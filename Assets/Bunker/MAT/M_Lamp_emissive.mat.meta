@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000007865181203994969073
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302988
+  packageName: TheBunker
+  packageVersion: 1.0
+  assetPath: Assets/Bunker/MAT/M_Lamp_emissive.mat
+  uploadId: 709944
